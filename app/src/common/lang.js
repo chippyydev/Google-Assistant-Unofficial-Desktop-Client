@@ -81,6 +81,19 @@ const supportedLanguages = {
     noSuggestionsText: "No suggestions.",
     settingsUpdatedText: "Settings Updated!",
   },
+    "pl-PL": {
+    langName: "Polski (Polska)",
+    welcomeMessage: "Cześć, w czym mogę pomóc?",
+    inputPlaceholder: "Wpisz wiadomość...",
+    listeningMessage: "Słucham...",
+    initSuggestions: [
+      { label: "Pogoda", query: "Jaka jest dziś pogoda?" },
+      { label: "Rzut monetą", query: "Rzut monetą" },
+      { label: "Co potrafisz?", query: "Co potrafisz?" },
+    ],
+    noSuggestionsText: "Brak sugestii.",
+    settingsUpdatedText: "Zaktualizowano ustawienia!",
+  },
   "es-ES": {
     langName: "Español (España)",
     welcomeMessage: "¡Hola! ¿Cómo puedo ayudar?",
