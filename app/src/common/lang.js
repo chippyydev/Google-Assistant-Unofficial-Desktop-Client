@@ -81,6 +81,7 @@ const supportedLanguages = {
     noSuggestionsText: "No suggestions.",
     settingsUpdatedText: "Settings Updated!",
   },
+  // This Polish translation DOES NOT WORK as it isn't officially included in the Google Assistant SDK. You still need to talk/write in English, it's only an UI language change.
     "pl-PL": {
     langName: "Polski (Polska)",
     welcomeMessage: "Cześć, w czym mogę pomóc?",
